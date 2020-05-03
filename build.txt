@@ -1,0 +1,3 @@
+displayName = Bleach mod!
+author = Purelove4mining
+version = 0.1
